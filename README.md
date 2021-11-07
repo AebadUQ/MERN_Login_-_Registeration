@@ -2,7 +2,8 @@
 login and registration application  using MERN
 
 This project consist of two folders :
-work (drontend)
+work ( that is frontend)
+and 
 backend
 
 //// How to run 
